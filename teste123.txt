@@ -10,16 +10,23 @@ Alteracao 2: Pelo Desenv
 266993e4a8d5e81e3926a52f075342b89bfd20e5
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 desenvMasterrf
 sdf
 s
 desenvMasterrfasd
 f
 =======
+=======
+>>>>>>> 441f2d7e663406288b7c27f87c1c9a1d0f1b473a
 
 
 efefewf
 we
 fazendowef
 wef
+<<<<<<< HEAD
 >>>>>>> commit no branch
+=======
+git
+>>>>>>> 441f2d7e663406288b7c27f87c1c9a1d0f1b473a
